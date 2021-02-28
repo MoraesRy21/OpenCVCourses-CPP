@@ -1,0 +1,15 @@
+﻿  Chapter7.cpp
+C:\Users\iarle\Documents\Visual Studio 2019\OpenCVCourses-\OpenCVCourses-\Chapter7.cpp(23,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\iarle\Documents\Visual Studio 2019\OpenCVCourses-\OpenCVCourses-\Chapter7.cpp(28,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\iarle\Documents\Visual Studio 2019\OpenCVCourses-\OpenCVCourses-\Chapter7.cpp(32,55): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const double', possible loss of data
+C:\Users\iarle\Documents\Visual Studio 2019\OpenCVCourses-\OpenCVCourses-\Chapter7.cpp(40,20): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Generating code
+  62 of 189 functions (32.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    21 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenCVCourses-.vcxproj -> C:\Users\iarle\Documents\Visual Studio 2019\OpenCVCourses-\x64\Release\OpenCVCourses-.exe
