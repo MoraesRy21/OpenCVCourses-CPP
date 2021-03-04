@@ -1,4 +1,4 @@
-# OpenCV Course whith C++
+# OpenCV Course with C++
 
 ### Chapter Lessons
 - Chapter 1 - Read Images Videos and Webcams
